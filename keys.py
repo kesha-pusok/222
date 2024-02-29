@@ -10,3 +10,4 @@ url_myspotorder = '/getorders' # получение списка ордеров
 all_close = '/cancelallorders' # закрытие всех ордеров
 all_balances = '/balances' #список всех не нулевых баллансов
 stat_price = '/market/getbysymbol/' #переменная для проверки
+close = '/cancelorder' #закрыть один ордер
